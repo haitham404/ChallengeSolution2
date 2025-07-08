@@ -13,7 +13,7 @@
 
 
 
-### 🗃 Inventory Operations
+###  Inventory Operations
 - Add books to inventory with all required details.
 - Remove outdated books (published before a specified year).
 - List all books currently in inventory.
@@ -77,6 +77,7 @@ Demobook demoBook = new Demobook("3", "Demo Book", 2000, 0.0, "Carol");
 PaperBook paperbook2 = new PaperBook("4", "yarabgetaccptedinTheinternship", 2024, 1.0, "haytham", 12);
 
 ```
+
 ```
 Added books to inventory
 -------------------------------------------------------------------------------------
@@ -90,9 +91,14 @@ Sending Ebook to email: haythamahmed2001@gmail.com
 50.0
 -------------------------------------------------------------------------------------
 the product is not buyable
-
-
 ```
+
+## UML
+<img width="3052" height="732" alt="Image" src="https://github.com/user-attachments/assets/15b189f8-270a-4da2-b78c-91dbe29dfa92" />
+
+
+
+
 
 
 
