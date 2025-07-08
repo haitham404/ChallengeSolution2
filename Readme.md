@@ -3,7 +3,7 @@
 
 ## Features
 
-### 📚 Book Management
+###  Book Management
 - Define books with **ISBN**, **title**, **author**, **year**, **price**, and **quantity** (for PaperBooks).
 
 #### Book Types:
@@ -11,14 +11,14 @@
 - **Ebook**: Digital books with file type (e.g., PDF) and email delivery.
 - **DemoBook**: Showcase/demo books, not for sale.
 
----
+
 
 ### 🗃 Inventory Operations
 - Add books to inventory with all required details.
 - Remove outdated books (published before a specified year).
 - List all books currently in inventory.
 
----
+
 
 ###  Purchase Operations
 - Buy books by providing:
@@ -33,7 +33,7 @@
   - Books with missing required info (email/address)
   - Non-existent books
 
----
+
 
 ### Checkout & Output
 - Prints detailed purchase receipt:
@@ -90,6 +90,8 @@ Sending Ebook to email: haythamahmed2001@gmail.com
 50.0
 -------------------------------------------------------------------------------------
 the product is not buyable
+
+
 ```
 
 
