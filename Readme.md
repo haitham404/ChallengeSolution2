@@ -46,7 +46,7 @@
 In the test class `QuantumBookstoreFullTest.java`, you'll find **commented-out code blocks** designed to test specific exception scenarios.  
 Each block is labeled to indicate what kind of exception it triggers.
 
-### 📌 Exception Scenarios to Test
+###  Exception Scenarios to Test
 
 | Scenario | Expected Exception |
 |----------|--------------------|
