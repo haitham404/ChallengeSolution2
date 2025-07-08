@@ -77,7 +77,7 @@ Demobook demoBook = new Demobook("3", "Demo Book", 2000, 0.0, "Carol");
 PaperBook paperbook2 = new PaperBook("4", "yarabgetaccptedinTheinternship", 2024, 1.0, "haytham", 12);
 
 ```
-
+```
 Added books to inventory
 -------------------------------------------------------------------------------------
 Outdated books (older than 10 years):
@@ -90,6 +90,7 @@ Sending Ebook to email: haythamahmed2001@gmail.com
 50.0
 -------------------------------------------------------------------------------------
 the product is not buyable
+```
 
 
 
