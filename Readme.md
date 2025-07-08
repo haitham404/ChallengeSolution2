@@ -39,7 +39,7 @@
 - Prints detailed purchase receipt:
   - Total paid amount
   - Delivery or shipping info
- -----
+
  
  ##  Exception Testing Guide
 
