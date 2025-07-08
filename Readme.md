@@ -59,15 +59,34 @@ Each block is labeled to indicate what kind of exception it triggers.
 
 ---
 
-### ✅ How to Use
+### How to Use
 
-1. **Open** the test file: `QuantumBookstoreFullTest.java`
+1. **Open** the test file: `Tese.java`
 2. **Uncomment** the relevant test block for the exception you want to check.
 3. **Run** the test.
 4. **Observe** the output:
    - You should see the correct **exception message** printed to the console.
-   - Confirm that the application correctly handles the error (e.g., no book is added to cart, balance is unchanged, etc.).
 
-> This setup ensures your application gracefully handles invalid operations and provides clear, custom error messages.
 
+##  Example Usage
+
+```java
+PaperBook paperBook = new PaperBook("1", "Java Basics", 2019, 100.0, "Alice", 10);
+Ebook ebook = new Ebook("2", "Quantum Computing", 2020, 50.0, "Bob", "PDF");
+Demobook demoBook = new Demobook("3", "Demo Book", 2000, 0.0, "Carol");
+PaperBook paperbook2 = new PaperBook("4", "yarabgetaccptedinTheinternship", 2024, 1.0, "haytham", 12);
+
+Added books to inventory
+-------------------------------------------------------------------------------------
+Outdated books (older than 10 years):
+Demo Book by Carol
+-------------------------------------------------------------------------------------
+Shipping PaperBook to address: 123 Main St
+200.0
+-------------------------------------------------------------------------------------
+Sending Ebook to email: haythamahmed2001@gmail.com
+50.0
+-------------------------------------------------------------------------------------
+the product is not buyable
+```
 
